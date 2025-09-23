@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>Eventss</title>
+       <link rel="icon" href="date.png">
+    
+    </head>
+
+    <body bgcolor="black" style="color: white;">
+        <center>
+            <h1>Upcoming Evets</h1>
+            <p1>Don't Miss any of your important events. Here are the important events you have registered for !</p1><br>
+        </center>
+        <hr>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro corporis, sed ea iste voluptate optio quasi quo eveniet officiis omnis reprehenderit, animi qui est? Delectus perspiciatis, excepturi distinctio recusandae doloremque vel rerum quasi debitis maiores aspernatur praesentium animi dicta quia modi aut veniam corporis. Excepturi delectus itaque veritatis nam ut laudantium quasi vero reiciendis odio assumenda. Porro necessitatibus pariatur odit facilis quia aut quos, reiciendis aliquid ratione ea deleniti alias dolorem earum praesentium omnis autem placeat, quis sed exercitationem delectus! Quidem voluptatum ipsum officiis tempore facilis aperiam tempora ipsam minus, delectus, assumenda quas dolor neque impedit quo sit distinctio voluptatibus!
+        </p>
+        <center>
+        <img src="event1.png">
+        <h1>Photo Galary</h1>
+        <h2>Free entry|free food |pets Not allowed </h2>
+        <p1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur laboriosam possimus alias eveniet laborum? Magni ipsa sit vel voluptatibus eum quisquam, nisi temporibus illum explicabo sed suscipit, assumenda debitis? Minus similique quos odit aperiam dolor, necessitatibus eligendi, corporis nihil quidem doloribus ipsum pariatur. Odio dolorem eveniet quam quaerat in repellendus.</p1>
+        </center>
+
+        <center>
+            <img src="event2.png">
+            <h1 >
+                <a href="https://www.myntra.com/">Fashion Store</a>
+            </h1>
+            <h2>Free entry|free food |pets Not allowed </h2>
+            <p1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur laboriosam possimus alias eveniet laborum? Magni ipsa sit vel voluptatibus eum quisquam, nisi temporibus illum explicabo sed suscipit, assumenda debitis? Minus similique quos odit aperiam dolor, necessitatibus eligendi, corporis nihil quidem doloribus ipsum pariatur. Odio dolorem eveniet quam quaerat in repellendus.</p1>
+        </center>
+        <hr>
+        <center>
+            <h1>Contact</h1>
+        <h2>+919361723885|event@gmail.com</h2>  
+            <h3>9th streetAvenue park,trichy</h3>  
+        </center>
+
+
+    </body>
+</html>
